@@ -92,14 +92,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-master-bailomateus-projects.vercel.app/api?username=BailoMateus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-git-master-bailomateus-projects.vercel.app/api?username=BailoMateus&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-git-master-bailomateus-projects.vercel.app/api/top-langs/?username=BailoMateus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-git-master-bailomateus-projects.vercel.app/api/top-langs/?username=BailoMateus&count_private=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
