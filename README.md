@@ -1,8 +1,33 @@
-#  Mateus Bailo
+# 👋 Olá! Eu sou o Mateus
 
-**`Aspirante a Engenheiro de Dados`**
+🎓 Estudante de Sistemas de Informação (PUCPR)  
+🚀 Focado em se tornar Engenheiro de Dados  
+📍 Apaixonado por Python, SQL, automação de pipelines e tudo que envolve dados
 
+---
 
+### 🧠 Sobre mim
+
+Atualmente, estou me aprofundando em Engenharia de Dados através de projetos práticos.  
+Tenho interesse especial em:
+
+- ETL com Python e SQL
+- APIs públicas e automação
+- Bancos de dados relacionais (MySQL)
+- Visualização de dados com Pandas e Matplotlib
+
+---
+### 🛠️ Tecnologias que estou utilizando
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+-----
+### Esses são os links para meu Linkedin e Email
 <p align="left">
     <a href="https://www.linkedin.com/in/mateus-luiz-bailo-a32519244/">
         <img 
@@ -22,7 +47,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tambem Tenho Conhecimento Nessas Linguagens e Tecnologias
 
 <img 
     align="left" 
