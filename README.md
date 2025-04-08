@@ -47,7 +47,7 @@ Tenho interesse especial em:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bailomateus=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BailoMateus&layout=compact)
 
 ### 🤖 Tambem Tenho Conhecimento Nessas Linguagens e Tecnologias
 
